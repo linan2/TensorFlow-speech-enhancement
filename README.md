@@ -9,3 +9,5 @@ Step 2. run train.sh to train model and test.
 Step 3. ca_pesq.sh evaluate your result with PESQ
 
 I have test it in REVERB challenge dataset and it could improve PESQ about from 2 to 2.8
+
+Later we will updata some Gan,multi-task learning and multi-object learning based model
