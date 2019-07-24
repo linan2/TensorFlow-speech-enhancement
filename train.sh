@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Copyright 2018    Nan LEE
+# Copyright 2019.7    Nan LEE
 
 set -euo pipefail
 
