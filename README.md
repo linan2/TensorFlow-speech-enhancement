@@ -1,3 +1,4 @@
+English | [中文](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese.git) 
 # This is a deep learning mapping based speech enhancement method.
 
 ## Attention:
