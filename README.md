@@ -1,4 +1,4 @@
-# This is a deep learning mapping based speech enhancement
+# This is a deep learning mapping based speech enhancement method.
 
 ## Attention:
 If your task is to do speech dereverberation, before running this code, you need cut data. 
