@@ -22,3 +22,5 @@ I have tested it in REVERB challenge dataset and it could improve PESQ about fro
 Lately, we will update some GAN, Multi-task learning, and Multi-object learning-based model, some attention mechanism-based model also will be updated.
 
 In the decode stage, you can choose G&L vocoder and you also could use the noisy speech original phase to synthetic speech, but I have tried G&L method it will not get better performance compared with use for original phase.
+
+Email: linanvae@163.com
