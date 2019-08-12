@@ -8,7 +8,7 @@ If your task is to do speech dereverberation, before running this code, you need
 If your task is to do feature enhancement, you can replace the log spetragram feature to other feature, e.g. MFCC
 
 ## To use:
-Step 1. run ex_trac.sh to extract log spectragram features.
+Step 1. run ex_trac.sh data prepare and extract log spectragram features.
 
 Step 2. run train.sh to train model and test.
 
