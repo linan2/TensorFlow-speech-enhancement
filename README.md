@@ -4,7 +4,7 @@ The purpose of this project is to use the methods of DNN and CNN for speech enha
 You can also choose whether to use dropout or L2 and so on.
 ## Attention:
 [make data](https://github.com/linan2/add_reverb2.git) before use this method you should have clean and corresponding noisy data.
-If your task is to do speech dereverberation, before running this code, you need cut data. 
+If your task is to do speech dereverberation, before running this code, you need cut data. The script in the cut_wav is helpful for you. 
 If your task is to do feature enhancement, you can replace the log spetragram feature to other feature, e.g. MFCC
 
 ## To use:
