@@ -23,4 +23,11 @@ Lately, we will update some GAN, Multi-task learning, and Multi-object learning-
 
 In the decode stage, you can choose G&L vocoder and you also could use the noisy speech original phase to synthetic speech, but I have tried G&L method it will not get better performance compared with use for original phase.
 
+[1] Li N., Ge M., Wang L., Dang J. (2019) [A Fast Convolutional Self-attention Based Speech Dereverberation Method for Robust Speech Recognition](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_25). In: Gedeon T., Wong K., Lee M. (eds) Neural Information Processing. ICONIP 2019. Lecture Notes in Computer Science, vol 11955. Springer, Cham
+
+[2] Wang, K., Zhang, J., Sun, S., Wang, Y., Xiang, F., Xie, L. (2018) Investigating Generative Adversarial Networks Based Speech Dereverberation for Robust Speech Recognition. Proc. Interspeech 2018, 1581-1585, DOI: 10.21437/Interspeech.2018-1780.
+
+[3] Ge, M., Wang, L., Li, N., Shi, H., Dang, J., Li, X. (2019) Environment-Dependent Attention-Driven Recurrent Convolutional Neural Network for Robust Speech Enhancement. Proc. Interspeech 2019, 3153-3157, DOI: 10.21437/Interspeech.2019-1477.
+
+
 Email: linanvae@163.com
